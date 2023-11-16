@@ -19,14 +19,18 @@ React를 이용해 Front 부분을 구현하고 Node.js의 Koa를 이용하여 B
 회원가입은 직접 새로운 계정을 생성해서 진행할 수 있습니다.<br>
 자신이 쓴 모든 글들은 수정과 삭제가 가능합니다<br>
 <br><br>
+## 회원가입 및 로그인
 ![image](https://github.com/cheolwankim/reactmyblog/assets/105213482/95a0ce43-095d-4d24-8e74-60db673214d6)
 <br><br>
 ![my3](https://github.com/cheolwankim/reactmyblog/assets/105213482/17352754-cfa8-453d-a520-44d6323ccf92)
 <br><br>
+## 로그인 확인
 ![my4](https://github.com/cheolwankim/reactmyblog/assets/105213482/7e061028-1f1d-4f3f-9b1d-3d7ba7c06ad0)
 <br><br><br><br><br>
+## 글 작성
 ![image](https://github.com/cheolwankim/reactmyblog/assets/105213482/87ff3709-8b45-4f9f-af96-eba681157041)
 <br><br><br><br><br>
+## 작성된 글 확인
 ![my5](https://github.com/cheolwankim/reactmyblog/assets/105213482/4b29849e-72b8-4988-862d-eb077a325b45)
 <br><br><br><br><br>
 ![m6](https://github.com/cheolwankim/reactmyblog/assets/105213482/02263b0c-1f32-4227-8755-3c79e71d2076)
