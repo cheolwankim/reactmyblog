@@ -45,6 +45,6 @@ npm start
 
 
 ## 📁 Reference
-리액트를 다루는 기술 [개정판] (https://thebook.io/080203/0781/) 를 참고하여 최신 React 버전에 알맞게 다시 구현하였습니다
+리액트를 다루는 기술 [개정판] (https://thebook.io/080203/0781/) 를 참고하여 <br>최신 React 버전에 알맞게 다시 구현하였습니다
 
 
